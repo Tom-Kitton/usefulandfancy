@@ -1,0 +1,95 @@
+
+body {
+	background-color: lavender;
+}
+
+img {
+	max-width: 60%;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+	
+}
+
+a:hover {
+	text-decoration: underline;
+	text-decoration-line: 1px;
+	color: black;
+
+}
+
+a:visited {
+
+}
+
+.container {
+	max-width: 100%;
+	font-family: 'Caudex', serif;
+
+}
+
+.general-body {
+
+}
+
+.headline-img {
+	position: relative;
+	left: 40%;
+}
+
+.headline-item {
+	font-size: 200%;
+	text-align: left;
+	max-height: 50%;
+	border-bottom: 2px solid;
+
+	
+}
+
+.main-heading {
+	max-width: 95%;
+	font-size: 600%;
+	border-bottom: 2px solid;
+	background-color: black;
+	color: lavender;
+	padding-left: 5%;
+	padding-right: 5%; 
+}
+
+.main-headlines {
+
+
+}
+
+
+.page-heading {
+	max-width: 95%;
+	font-size: 500%;
+	border-bottom: 2px solid;
+	background-color: black;
+	color: lavender;
+	padding-left: 5%;
+	padding-right: 5%;
+	}
+
+.tag-bottom-right {
+	position: fixed;
+	bottom: 1%;
+	right: 1%;
+	font-family: 'Caudex', serif;
+	background-color: black;
+	color: lavender;
+	font-size: 150%
+}
+.tag-bottom-right-upper {
+	position: fixed;
+	bottom: 6%;
+	right: 1%;
+	font-family: 'Caudex', serif;
+	background-color: black;
+	color: lavender;
+	font-size: 150%
+}
+ 
